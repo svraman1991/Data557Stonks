@@ -17,6 +17,6 @@ The repository for our Data 557 Winter quarter final project
 2. Assumption_tests_Welch_test.ipynb will run the assumption tests for whether skewness and/or kurtosis can be neglected.
    Also runs the welch-t-test between the individual stocks and the Nifty50 index.
 3. The DATA557_Dataprep.ipynb file will perform data preprocessing on the daily archives in order to make the data usable for further analysis.
-4. The DARA557_EDA.ipynb file will perform the EDA for the top 5 stocks (Graphs for Skewness, kurtosis, and autocorrelation).
+4. The DATA557_EDA.ipynb file will perform the EDA for the top 5 stocks (Graphs for Skewness, kurtosis, and autocorrelation).
 5. The DATA557_Correlation.ipynb file will perform the correlation and hypothesis tests on the correlation(s).
 6. The DATA557_LinearRegression.ipynb file will perform linear regression on the indicators(predictors) to predict the price returns(response).
